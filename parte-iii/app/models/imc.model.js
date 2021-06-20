@@ -5,6 +5,7 @@ class ImcModel {
     peso;
     altura;
     valor; 
+    imc;
 }
 
 module.exports = new ImcModel();
