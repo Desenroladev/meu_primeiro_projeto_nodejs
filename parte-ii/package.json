@@ -1,0 +1,22 @@
+{
+  "name": "imc",
+  "version": "1.0.0",
+  "description": "Calculadora de IMC",
+  "main": "index.js",
+  "scripts": {
+    "start": "cross-env PORT=8888 nodemon index.js"
+  },
+  "keywords": [
+    "IMC"
+  ],
+  "author": "Antoniel Lima",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "nodemon": "^2.0.7"
+  }
+}
