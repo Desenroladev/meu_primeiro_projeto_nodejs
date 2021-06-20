@@ -106,3 +106,9 @@ dist
 
 parte-ii/node_modules
 parte-ii/package-lock.json
+
+parte-i/node_modules
+parte-i/package-lock.json
+
+parte-iii/node_modules
+parte-iii/package-lock.json
